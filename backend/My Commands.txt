@@ -1,0 +1,7 @@
+cd C:\Users\Administrator\ai-dj-playlist\backend  - 1st
+
+
+python youtube_api.py  - 2nd
+
+
+
